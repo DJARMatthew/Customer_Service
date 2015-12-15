@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Customer_Service</string>
+    <string name="version">国林实业© Version Beta 1.0</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">手机</string>
+    <string name="prompt_password">授权码</string>
+    <string name="action_sign_in">登 录</string>
+    <string name="action_sign_in_short">登 录</string>
+    <string name="error_invalid_email">手机号码错误！</string>
+    <string name="error_invalid_password">授权码太短！</string>
+    <string name="error_incorrect_password">授权码不正确</string>
+    <string name="error_field_required">必填项</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+</resources>
